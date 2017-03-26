@@ -1,9 +1,7 @@
-# TaxiMiner_Topic_3_Understanding-taxi-usage_rep
-Big Data 2016 Project - Understanding Taxi Usage
+Big Data 2016 Project - Understanding NYC Taxi Usage
 
-Big Data 2016 Project - Understanding Taxi Usage
+This repository contains Python scripts to analyse NYC Yellow and Green Taxi trips taken during year the 2015 using Hadoop streaming and MapReduce on Amazon EMR cluster
 
-Hello,
 
 The repository has been structured as follows:
   -Under the 'Analysis' folder, there are sub folders for different type of analysis over the data like monthlyAnalysis,    quarterlyAnalysis, dailyAnalysis, etc.
